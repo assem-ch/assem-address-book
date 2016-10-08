@@ -1,6 +1,6 @@
 # Address book
 
-This is assignment is done by Assem Chelli (bigOTHER).
+This assignment is done by Assem Chelli (bigOTHER).
 
 ## Installation
 ```sh
